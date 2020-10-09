@@ -24,3 +24,8 @@
 
 1. https://www.markdownguide.org
 
+## Python / Django App Ideas
+
+1. https://data-flair.training/blogs/django-project-ideas/
+
+2. https://intellipaat.com/blog/interview-question/python-interview-questions/?utm_source=linkedin
